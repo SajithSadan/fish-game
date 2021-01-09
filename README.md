@@ -1,6 +1,6 @@
 # Fish Game - HTML5 Canvas Game
 
-A canvas based developed using ES6
+HTML5 canvas based game developed using ES6
 
 # Getting Started
 
